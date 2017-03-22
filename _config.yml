@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Telepresence-ROI
 description: Hand gesture based Region marking for tele-support using Wearables
+baseurl: /AirGesturesROI
